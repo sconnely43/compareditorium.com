@@ -832,18 +832,33 @@
 
 }
 
-/*--PHONES 414px--*/
+  /*--PHONES TO SMALL TABLETS 0 - 414px--*/
 
 @media only screen and (max-width: 414px) {
 
+    .logo {
+        left: 5%;
+        height: 50px;
+        }
+
+        .mobile-nav-icon {
+            margin-right: 5%;
+          }
+
+    .mobile-nav-icon i { 
+        font-size: 180%; 
+        margin-right: 0%;
+    }
+
+
     .hero-text-box h1 {
-        font-size: 80%;
-        left: 4%;
+        font-size: 90%;
+        left: 10%;
     }
 
     .hero-text-box p {
         font-size: 65%;
-        margin-top: 90px;
+        margin-top: 100px;
 }
 
     .position-box { 
@@ -852,51 +867,73 @@
     }
 
 
-    .best-ribbon { left: 18%; }    
+    .best-ribbon { left: 23%; }   
+    
+    .best-ribbon img {
+        left: 0%;
+        height: 55px;
+        top: -10px;
+}
+
+    .adv-logo { top: 40px; }
+
+    
     .adv-logo img {
         display: center ;
-        width: 100%;
+        width: 85%;
         height: auto;
         right: 2%;
         margin-left: 0%;
   }
 
+  .os-logo-container {
+    display: block;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 40px;
+    width: auto;
+    height: 40px;
+    left: 10%;
+  }
+  
+
   .os-logo-container i { font-size: 48px; }
 
 
   .star-rating {
-    right: 5%;
+    display: block;
+    background-color: none;
+    float: right;
+    position: relative;
+    top: -140px;
+    width: 200px;
+    height: 50px;
+    right: 23%;
   }
+
+  .features-icons {
+    position: relative;
+    display: block;
+    background-color: none;
+    width: 100%;
+    left: 10%;
+    top: 130px;
+    height: 220px;
+    padding-top: 10px;
   
-  .feature-icon {
-    width: 35px;
-    height: auto;
-    padding-bottom: 20px;
-    vertical-align: middle;
-    display: inline-block ;
-   }
-   
-   li p {
-     position: relative;
-     color: #7a7878;
-     font-size: 70%;
-     display: inline-block;
-     margin-left: 15px;
-   
-     
-   }
+  }
 
 
   .visit-btn a:link,
   .visit-btn a:visited {
-      width: 90%;
-      right: 5%;
+      width: 80%;
+      right: 10%;
       }
 
   .review-btn a:link,
   .review-btn a:visited {
-        width: 90%;
-        right: 5%;
+        width: 80%;
+        right: 10%;
       }    
       
       .footer {
@@ -904,26 +941,26 @@
       }
 
       .footer-nav {
-        width: 90%;
-        left: 10%;
+        width: 80%;
+        left: 20%;
     }
 
 
     .social-icons {
-        left: 30%;
+        left: 35%;
         width: 60%;
       }
 
       .copyright-box { 
         bottom: 5px;
-        left: 2%; 
+        left: 4%; 
         }
     
         .copyright {
-            font-size: 60%;
+            font-size: 55%;
 
           }
-}
+
 
     /*--PHONES 375px--*/
 
@@ -1115,3 +1152,5 @@
     
               }
     }
+
+}
