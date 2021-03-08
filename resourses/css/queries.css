@@ -929,3 +929,96 @@
           }
     
     }
+
+     /*--PHONES 320px--*/
+
+     @media only screen and (max-width: 320px) {
+
+        .hero-text-box h1 {
+            font-size: 80%;
+            left: 4%;
+        }
+
+        .hero-text-box p {
+            font-size: 65%;
+            margin-top: 90px;
+    }
+
+        .position-box { 
+            padding: 20px 30px 20px 20px;
+            height: 700px;
+        }
+
+
+        .best-ribbon { left: 18%; }    
+        .adv-logo img {
+            display: center ;
+            width: 100%;
+            height: auto;
+            right: 2%;
+            margin-left: 0%;
+      }
+
+      .os-logo-container i { font-size: 48px; }
+
+
+      .star-rating {
+        right: 5%;
+      }
+      
+      .feature-icon {
+        width: 35px;
+        height: auto;
+        padding-bottom: 20px;
+        vertical-align: middle;
+        display: inline-block ;
+       }
+       
+       li p {
+         position: relative;
+         color: #7a7878;
+         font-size: 70%;
+         display: inline-block;
+         margin-left: 15px;
+       
+         
+       }
+
+
+      .visit-btn a:link,
+      .visit-btn a:visited {
+          width: 90%;
+          right: 5%;
+          }
+  
+      .review-btn a:link,
+      .review-btn a:visited {
+            width: 90%;
+            right: 5%;
+          }    
+          
+          .footer {
+            top: 7550px;
+          }
+
+          .footer-nav {
+            width: 90%;
+            left: 10%;
+        }
+
+
+        .social-icons {
+            left: 30%;
+            width: 60%;
+          }
+    
+          .copyright-box { 
+            bottom: 5px;
+            left: 2%; 
+            }
+        
+            .copyright {
+                font-size: 60%;
+    
+              }
+    }
