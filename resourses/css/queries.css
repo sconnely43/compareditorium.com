@@ -1,27 +1,27 @@
 /*--BIG screen TO big tablet 1440px--*/
 
 @media only screen and (max-width: 1440px) {
-    .footer-nav {width: 38%;}
-    .bling { height: 35px; }
-    .star-rating { right: 6%; }
-    .best-ribbon img {
-        position: absolute;
-        left: 6%;
-        top: -13px;
-        width: 27%;
-        height: 60px;
-      }
+  .footer-nav {width: 38%;}
+  .bling { height: 35px; }
+  .star-rating { right: 6%; }
+  .best-ribbon img {
+      position: absolute;
+      left: 6%;
+      top: -13px;
+      width: 27%;
+      height: 60px;
+    }
 
-      .features-icons {
-        left: 35%;
-        top: -150px;
-      }
+    .features-icons {
+      left: 35%;
+      top: -150px;
+    }
 
 
-    .feature-icon { width: 35px; }
+  .feature-icon { width: 35px; }
 
- }
-    
+}
+  
 
 
 
@@ -29,134 +29,136 @@
 
 @media only screen and (max-width: 1411px) {
 
-    .visit-btn a:link {
-        font-size: 140%;
-        text-align: center;
-        padding: 10px 15px;
+  .visit-btn a:link {
+      font-size: 140%;
+      text-align: center;
+      padding: 10px 15px;
+  }
+  
+  .review-btn a:link {
+      font-size: 140%;
+      text-align: center;
+      padding: 10px 15px;
+  }
+  .star-rating { 
+      height: 40px;
+      width: auto;
+      right: 5%; }
+
+  .bling  {
+      height: 35px;
+      width: auto;
     }
     
-    .review-btn a:link {
-        font-size: 140%;
-        text-align: center;
-        padding: 10px 15px;
+  .best-ribbon img {
+      position: absolute;
+      left: 6%;
+      top: -13px;
+      width: 25%;
+      height: 60px;
     }
-    .star-rating { 
-        height: 40px;
-        width: auto;
-        right: 5%; }
 
-    .bling  {
-        height: 35px;
-        width: auto;
-      }
-      
-    .best-ribbon img {
-        position: absolute;
-        left: 6%;
-        top: -13px;
-        width: 25%;
-        height: 60px;
-      }
-
- }
-   
+}
+ 
 
 
 /*--BIG screen TO big tablet 1280px--*/
 
 @media only screen and (max-width: 1280px) {
-    .header { 
-        width: 74%;
-        left: 13%;
-        right: 13%;
-                
-    }
+  .header { 
+      width: 74%;
+      left: 13%;
+      right: 13%;
+              
+  }
 
-    .hero-box { 
-        width: 74%;
-        left: 13%;
-        right: 13%;
-    
-    }
-    .hero-text-box h1 { font-size: 150%;}
-    .hero-text-box p {font-size: 70%;}
-    .hero-text-box {margin-right: 35%;}
-    .container { 
-        width: 74%;
-        left: 13%;
-        right: 13%;
-    
-    }
-    .position-box {
-        padding: 40px 10px 40px 20px;
+  .hero-box { 
+      width: 74%;
+      left: 13%;
+      right: 13%;
+  
+  }
+  .hero-text-box h1 { font-size: 150%;}
+  .hero-text-box p {font-size: 70%;}
+  .hero-text-box {margin-right: 35%;}
+  .container { 
+      width: 74%;
+      left: 13%;
+      right: 13%;
+  
+  }
+  .position-box {
+      padding: 40px 10px 40px 20px;
+  }
+
+  .star-rating {right: 4%;}
+  .bling { height: 37px;}
+ 
+
+    .visit-btn a:link {width: 25%;}
+
+    .review-btn a:link {width: 25%;}
+
+    .adv-logo img {
+          left: 1%;
+          width: auto;
+          height: 65px;
+  }
+  .os-logo-container { top: 20px; }
+
+  .footer {
+      width: 80%;
+      left: 10%;
+      right: 10%;
+
+  }
+
+  .footer-nav {
+      top: 5px;
+      width: 35%;
+      left: 5%;
     }
   
-    .star-rating {right: 4%;}
-    .bling { height: 37px;}
-   
-
-      .visit-btn a:link {width: 25%;}
-
-      .review-btn a:link {width: 25%;}
-
-      .adv-logo img {
-            left: 1%;
-            width: auto;
-            height: 65px;
-    }
-    .os-logo-container { top: 20px; }
-
-    .footer {
-        width: 80%;
-        left: 10%;
-        right: 10%;
-
-    }
-
-    .footer-nav {
-        top: 5px;
-        width: 35%;
-        left: 5%;
-      }
+  .footer-links li {font-size: 80%;}
+  
+  .social-icon {height: 28px;}
     
-    .footer-links li {font-size: 80%;}
+  .logo-foot {   
+      right: 5%;
+      bottom: 65px;
+      height: 50px;
+    }
     
-    .social-icon {height: 28px;}
-      
-    .logo-foot {   
-        right: 5%;
-        bottom: 65px;
-        height: 50px;
-      }
-      
-      .copyright {font-size: 55%;} 
+    .copyright {font-size: 55%;} 
 }
 /*--BIG screen TO big tablet 1256px--*/
 
 @media only screen and (max-width: 1256px) {
 
-    .visit-btn a:link {
-        font-size: 140%;
-        text-align: center;
-        padding: 10px 15px;
-    }
-    
-    .review-btn a:link {
-        font-size: 140%;
-        text-align: center;
-        padding: 10px 15px;
-    }
+  .visit-btn a:link {
+      font-size: 140%;
+      text-align: center;
+      padding: 10px 15px;
+  }
+  
+  .review-btn a:link {
+      font-size: 140%;
+      text-align: center;
+      padding: 10px 15px;
+  }
 
-    .adv-logo img {
-        left: 1%;
-        width: auto;
-        height: 63px;
+  .adv-logo img {
+      left: 1%;
+      width: auto;
+      height: 63px;
 }
-    
+  
 
-      .adv-logo {
-        left: 0.2%;
-      }
+    .adv-logo {
+      left: 0.2%;
+    }
+
+  
 }
 
 
@@ -165,104 +167,102 @@
 
 @media only screen and (max-width: 1200px) {
 
-    .header {
-        width: 100%;
-        left: 0%;
-        right: 0%;
-    }    
-    .logo {left: 5%;}
+  .header {
+      width: 100%;
+      left: 0%;
+      right: 0%;
+  }    
+  .logo {left: 5%;}
 
-    .main-nav {
-        font-size: 85%;
-        margin-right: 70px;
-    }
+  .main-nav {
+      font-size: 85%;
+      margin-right: 70px;
+  }
 
-    .main-nav li {
-        margin-right: 20px;
-    }
-    .hero-box { 
-        width: 100%;
-        left: 0%;
-        right: 0%;
-    }
+  .main-nav li {
+      margin-right: 20px;
+  }
+  .hero-box { 
+      width: 100%;
+      left: 0%;
+      right: 0%;
+  }
 
-    .hero-text-box {
-        left: 3%;
+  .hero-text-box {
+      left: 3%;
 
-    }
+  }
 
-    .container {
-        width: 90%;
-        left: 5%;
-        right: 5%;
-    }
+  .container {
+      width: 90%;
+      left: 5%;
+      right: 5%;
+  }
 
-    .position-box {
-        padding-left: 5px;
-        padding-right: 5px;
-    }
+  .position-box {
+      padding-left: 5px;
+      padding-right: 5px;
+  }
 
-    .best-ribbon {
-        left: 3%
-    }
+  .best-ribbon {
+      left: 3%
+  }
 
-    .adv-logo {
-        left: 2.5%;
-    }
+  .adv-logo {
+      left: 2.5%;
+  }
 
-    .adv-logo img {
-        width: auto;
-        height: 65px;
-    }
+  .adv-logo img {
+      width: auto;
+      height: 65px;
+  }
 
-    .star-rating {
-        right: 6%;
-    }
+  .star-rating {
+      right: 6%;
+  }
 
 
-    .visit-btn a:link {
-        font-size: 160%;
-        text-align: center;
-        padding: 5px;
-    }
+  .visit-btn a:link {
+      font-size: 160%;
+      text-align: center;
+      padding: 5px;
+  }
 
-    .review-btn a:link {
-        font-size: 160%;
-        text-align: center;
-        padding: 5px;
-    }
+  .review-btn a:link {
+      font-size: 160%;
+      text-align: center;
+      padding: 5px;
+  }
 
-    .footer {
-        width: 100%;
-        left: 0%;
-        right: 0%;
-    }
+  .footer {
+      width: 100%;
+      left: 0%;
+      right: 0%;
+  }
 
-    .footer-nav {
-        top: 5px;
-        width: 35%;
-        left: 5%;
-    }
+  .footer-nav {
+      top: 5px;
+      width: 35%;
+      left: 5%;
+  }
 
-    .footer-links li {font-size: 80%;}
+  .footer-links li {font-size: 80%;}
 
-    .social-icon {height: 30px;}
-    
-    .logo-foot {   
-        right: 5%;
-        bottom: 65px;
-        height: 50px;
-    }
-    
-    .copyright {font-size: 60%;} 
-    
-    .position-box:hover { box-shadow: none }
+  .social-icon {height: 30px;}
+  
+  .logo-foot {   
+      right: 5%;
+      bottom: 65px;
+      height: 50px;
+  }
+  
+  .copyright {font-size: 60%;} 
+  
+  .position-box:hover { box-shadow: none }
 
-    
+  }
 
-    }
-
-     /*--ipad pro 10.5inch 834px--*/
+  /*--ipad pro 10.5inch 834px--*/
 
 @media only screen and (max-width: 834px) {
 
@@ -335,211 +335,213 @@
 
 @media only screen and (max-width: 812px) {
 
-    .logo { 
-        top: 15px;
-        left: 10%;
-    }
+  .logo { 
+      top: 15px;
+      left: 10%;
+  }
 
-    .header { 
-        width: 100%;
-        background-color: #ffffffea; 
-        height: 100px;
+  .header { 
+      width: 100%;
+      background-color: #ffffffea; 
+      height: 100px;
+  }
+  
+  .mobile-nav {
+      position: absolute;
+      display: none;
+      background-color: #747373ea;
+      height: 600px;
+      z-index: -1;   
+  } 
+
+  .main-nav li { display: none;}
+
+  .mob-main-nav { 
+      float: left;
+      margin-top: 120px;
+      margin-left: 15%;
+      z-index: 999;
+      color: #ffffff;
+  }
+
+  .mob-main-nav li {
+      display: block;
+      color: #ffffff;
+  
+  }
+
+  .mob-main-nav li a:link,
+  .mob-main-nav li a:visited {
+      display: block;
+      top: 50px;
+      color: #ffffff;
+      border: 0;
+      padding: 20px 0;
+      font-size: 120%;
+
+  }
+  .mobile-nav-icon { display: inline-block;}
+
+  .hero-text-box {
+      margin-left: 10%;
+      margin-right: 10%;
+      width: 80%;
+  }
+
+  .hero-text-box h1 {
+      left: 15%;
+      font-size:120%;
+  }
+
+  .hero-text-box p {
+      text-align: center;
+      font-size: 70%;
+  }
+
+  .logo {left: 10%;}
+
+  .hero-box {
+      background-image: url(hero-box-mob.jpg);
+      top: 100px;
+      left: 10%;
+      right: 10%;
+      width: 80%;
+      height: 360px;
+  }
+
+  .container {
+      display: block;
+      position: absolute;
+      top: 400px;
+      width: 70%;
+      left: 15%;
+      right: 15%;
+      min-height: 100%;
+    }
+  .position-box {
+      height: 730px;
+      padding: 40px 80px 40px 80px;
+      margin-bottom: 15px;
     }
     
-    .mobile-nav {
-        position: absolute;
-        display: none;
-        background-color: #747373ea;
-        height: 600px;
-        z-index: -1;   
-    } 
-
-    .main-nav li { display: none;}
-
-    .mob-main-nav { 
-        float: left;
-        margin-top: 120px;
-        margin-left: 15%;
-        z-index: 999;
-        color: #ffffff;
+    .best-ribbon {
+      position: absolute;
+      left: 27%;
+      top: -1px;
     }
 
-    .mob-main-nav li {
-        display: block;
-        color: #ffffff;
+  .best-ribbon img {
+      height: 64px;
+      width: auto;
+  }      
+    .adv-logo {
+        top: 35px;
+  }
+  .adv-logo img {
+      display: center ;
+      width: 80%;
+      height: auto;
+      right: 10%;
+      left: 10%;
+  }
+  .star-rating {
+      top: -160px;
+      right: 20%;
+    }
+
+ 
+    .os-logo-container {
+      left: 15%;
+    }
+
+    .features-icons {
+      position: relative;
+      display: block;
+      background-color: none;
+      width: 80%;
+      left: 15%;
+      top: 120px;
+      height: 220px;
+      padding-top: 10px;
     
     }
-
-    .mob-main-nav li a:link,
-    .mob-main-nav li a:visited {
-        display: block;
-        top: 50px;
-        color: #ffffff;
-        border: 0;
-        padding: 20px 0;
-        font-size: 120%;
-
+    
+    .feature-icon {
+     width: 40px;
+     height: auto;
+     padding-bottom: 15px;
+     vertical-align: middle;
+     display: inline-block ;
     }
-    .mobile-nav-icon { display: inline-block;}
-
-    .hero-text-box {
-        margin-left: 10%;
-        margin-right: 10%;
-        width: 80%;
-    }
-
-    .hero-text-box h1 {
-        left: 15%;
-        font-size:120%;
+    
+    li p {
+      position: relative;
+      color: #7a7878;
+      font-size: 90%;
+      display: inline-block;
+      margin-left: 15px;
+      
     }
 
-    .hero-text-box p {
-        text-align: center;
-        font-size: 70%;
-    }
 
-    .logo {left: 10%;}
 
-    .hero-box {
-        background-image: url(hero-box-mob.jpg);
-        top: 100px;
-        left: 10%;
-        right: 10%;
-        width: 80%;
-        height: 360px;
-    }
+  .visit-btn a:link,
+  .visit-btn a:visited {
+      width: 70%;
+      bottom: -110px;
+      right: 15%;
+      }
 
-    .container {
-        display: block;
-        position: absolute;
-        top: 400px;
+  .review-btn a:link,
+  .review-btn a:visited {
         width: 70%;
-        left: 15%;
+        bottom: -140px;
         right: 15%;
-        min-height: 100%;
       }
-    .position-box {
-        height: 730px;
-        padding: 40px 80px 40px 80px;
-        margin-bottom: 15px;
-      }
-      
-      .best-ribbon {
-        position: absolute;
-        left: 27%;
-        top: -1px;
-      }
-
-    .best-ribbon img {
-        height: 64px;
-        width: auto;
-    }      
-      .adv-logo {
-          top: 35px;
-    }
-    .adv-logo img {
-        display: center ;
-        width: 80%;
-        height: auto;
-        right: 10%;
-        left: 10%;
-    }
-    .star-rating {
-        top: -160px;
-        right: 20%;
-      }
-
-   
-      .os-logo-container {
-        left: 15%;
-      }
-
-      .features-icons {
-        position: relative;
-        display: block;
-        background-color: none;
-        width: 80%;
-        left: 15%;
-        top: 120px;
-        height: 220px;
-        padding-top: 10px;
-      
-      }
-      
-      .feature-icon {
-       width: 40px;
-       height: auto;
-       padding-bottom: 15px;
-       vertical-align: middle;
-       display: inline-block ;
-      }
-      
-      li p {
-        position: relative;
-        color: #7a7878;
-        font-size: 90%;
-        display: inline-block;
-        margin-left: 15px;
-        
-      }
-
-  
-  
-    .visit-btn a:link,
-    .visit-btn a:visited {
-        width: 70%;
-        bottom: -110px;
-        right: 15%;
-        }
-
-    .review-btn a:link,
-    .review-btn a:visited {
-          width: 70%;
-          bottom: -140px;
-          right: 15%;
-        }
-            
-        .footer {
-            top: 7850px;
-            width: 80%;
-            left: 10%;
-            right: 10%;
-          }
           
-        .logo-foot {
-            display: none;
-        }  
-
-       
-        .footer-nav {
-            display: block;
-            width: 55%;
-            left: 28%;
-            height: 50px;
-            position: relative;
-            text-decoration: none;
+      .footer {
+          top: 7850px;
+          width: 80%;
+          left: 10%;
+          right: 10%;
         }
-
-        .footer-links li { 
-            font-size: 60%;
-            padding: 5px 40px 0px 0px;
-        }
-
-
-        .social-icons {
-            display: block;
-            height: 50px;
-            left: 37%;
-            width: 33%;
-            bottom: 25px;
-          }
-
-          .copyright-box { 
-            bottom: 5px;
-            left: 15%; 
-            }
         
+      .logo-foot {
+          display: none;
+      }  
+
+     
+      .footer-nav {
+          display: block;
+          width: 55%;
+          left: 28%;
+          height: 50px;
+          position: relative;
+          text-decoration: none;
+      }
+
+      .footer-links li { 
+          font-size: 60%;
+          padding: 5px 40px 0px 0px;
+      }
+
+
+      .social-icons {
+          display: block;
+          height: 50px;
+          left: 37%;
+          width: 33%;
+          bottom: 25px;
+        }
+
+        .copyright-box { 
+          bottom: 5px;
+          left: 15%; 
+          }
+      
 }
+
+
 
 
 
@@ -547,451 +549,340 @@
 
 @media only screen and (max-width: 767px) {
 
-    .logo { 
-        top: 15px;
-        left: 10%;
-    }
+  .logo { 
+      top: 15px;
+      left: 10%;
+  }
 
-    .header { 
-        width: 100%;
-        background-color: #ffffffea; 
-        height: 100px;
+  .header { 
+      width: 100%;
+      background-color: #ffffffea; 
+      height: 100px;
+  }
+  
+  .mobile-nav {
+      position: absolute;
+      display: none;
+      background-color: #747373ea;
+      height: 600px;
+      z-index: -1;   
+  } 
+
+  .main-nav li { display: none;}
+
+  .mob-main-nav { 
+      float: left;
+      margin-top: 120px;
+      margin-left: 15%;
+      z-index: 999;
+      color: #ffffff;
+  }
+
+  .mob-main-nav li {
+      display: block;
+      color: #ffffff;
+  
+  }
+
+  .mob-main-nav li a:link,
+  .mob-main-nav li a:visited {
+      display: block;
+      top: 50px;
+      color: #ffffff;
+      border: 0;
+      padding: 20px 0;
+      font-size: 120%;
+
+  }
+  .mobile-nav-icon { display: inline-block;}
+
+  .hero-text-box {
+      margin-left: 10%;
+      margin-right: 10%;
+      width: 80%;
+  }
+
+  .hero-text-box h1 {
+      left: 15%;
+      font-size:120%;
+  }
+
+  .hero-text-box p {
+      text-align: center;
+      font-size: 70%;
+  }
+
+  .logo {left: 10%;}
+
+  .hero-box {
+      background-image: url(hero-box-mob.jpg);
+      top: 100px;
+      left: 10%;
+      right: 10%;
+      width: 80%;
+      height: 360px;
+  }
+
+  .container {
+      display: block;
+      position: absolute;
+      top: 400px;
+      width: 70%;
+      left: 15%;
+      right: 15%;
+      min-height: 100%;
+    }
+  .position-box {
+      height: 730px;
+      padding: 40px 80px 40px 80px;
+      margin-bottom: 15px;
     }
     
-    .mobile-nav {
-        position: absolute;
-        display: none;
-        background-color: #747373ea;
-        height: 600px;
-        z-index: -1;   
-    } 
-
-    .main-nav li { display: none;}
-
-    .mob-main-nav { 
-        float: left;
-        margin-top: 120px;
-        margin-left: 15%;
-        z-index: 999;
-        color: #ffffff;
+    .best-ribbon {
+      position: absolute;
+      left: 27%;
+      top: -1px;
     }
 
-    .mob-main-nav li {
-        display: block;
-        color: #ffffff;
+  .best-ribbon img {
+      height: 64px;
+      width: auto;
+  }      
+    .adv-logo {
+        top: 35px;
+  }
+  .adv-logo img {
+      display: center ;
+      width: 80%;
+      height: auto;
+      right: 10%;
+      left: 10%;
+  }
+  .star-rating {
+      top: -160px;
+      right: 20%;
+    }
+
+ 
+    .os-logo-container {
+      left: 15%;
+    }
+
+    .features-icons {
+      position: relative;
+      display: block;
+      background-color: none;
+      width: 80%;
+      left: 15%;
+      top: 120px;
+      height: 220px;
+      padding-top: 10px;
     
     }
-
-    .mob-main-nav li a:link,
-    .mob-main-nav li a:visited {
-        display: block;
-        top: 50px;
-        color: #ffffff;
-        border: 0;
-        padding: 20px 0;
-        font-size: 120%;
-
+    
+    .feature-icon {
+     width: 40px;
+     height: auto;
+     padding-bottom: 15px;
+     vertical-align: middle;
+     display: inline-block ;
     }
-    .mobile-nav-icon { display: inline-block;}
-
-    .hero-text-box {
-        margin-left: 10%;
-        margin-right: 10%;
-        width: 80%;
-    }
-
-    .hero-text-box h1 {
-        left: 15%;
-        font-size:120%;
+    
+    li p {
+      position: relative;
+      color: #7a7878;
+      font-size: 90%;
+      display: inline-block;
+      margin-left: 15px;
+      
     }
 
-    .hero-text-box p {
-        text-align: center;
-        font-size: 70%;
-    }
 
-    .logo {left: 10%;}
 
-    .hero-box {
-        background-image: url(hero-box-mob.jpg);
-        top: 100px;
-        left: 10%;
-        right: 10%;
-        width: 80%;
-        height: 360px;
-    }
+  .visit-btn a:link,
+  .visit-btn a:visited {
+      width: 70%;
+      bottom: -110px;
+      right: 15%;
+      }
 
-    .container {
-        display: block;
-        position: absolute;
-        top: 400px;
+  .review-btn a:link,
+  .review-btn a:visited {
         width: 70%;
-        left: 15%;
+        bottom: -140px;
         right: 15%;
-        min-height: 100%;
       }
-    .position-box {
-        height: 730px;
-        padding: 40px 80px 40px 80px;
-        margin-bottom: 15px;
-      }
-      
-      .best-ribbon {
-        position: absolute;
-        left: 27%;
-        top: -1px;
-      }
-
-    .best-ribbon img {
-        height: 64px;
-        width: auto;
-    }      
-      .adv-logo {
-          top: 35px;
-    }
-    .adv-logo img {
-        display: center ;
-        width: 80%;
-        height: auto;
-        right: 10%;
-        left: 10%;
-    }
-    .star-rating {
-        top: -160px;
-        right: 20%;
-      }
-
-   
-      .os-logo-container {
-        left: 15%;
-      }
-
-      .features-icons {
-        position: relative;
-        display: block;
-        background-color: none;
-        width: 80%;
-        left: 15%;
-        top: 120px;
-        height: 220px;
-        padding-top: 10px;
-      
-      }
-      
-      .feature-icon {
-       width: 40px;
-       height: auto;
-       padding-bottom: 15px;
-       vertical-align: middle;
-       display: inline-block ;
-      }
-      
-      li p {
-        position: relative;
-        color: #7a7878;
-        font-size: 90%;
-        display: inline-block;
-        margin-left: 15px;
-        
-      }
-
-  
-  
-    .visit-btn a:link,
-    .visit-btn a:visited {
-        width: 70%;
-        bottom: -110px;
-        right: 15%;
-        }
-
-    .review-btn a:link,
-    .review-btn a:visited {
-          width: 70%;
-          bottom: -140px;
-          right: 15%;
-        }
-            
-        .footer {
-            top: 7850px;
-            width: 80%;
-            left: 10%;
-            right: 10%;
-          }
           
-        .logo-foot {
-            display: none;
-        }  
-
-       
-        .footer-nav {
-            display: block;
-            width: 55%;
-            left: 28%;
-            height: 50px;
-            position: relative;
-            text-decoration: none;
+      .footer {
+          top: 7850px;
+          width: 80%;
+          left: 10%;
+          right: 10%;
         }
-
-        .footer-links li { 
-            font-size: 60%;
-            padding: 5px 40px 0px 0px;
-        }
-
-
-        .social-icons {
-            display: block;
-            height: 50px;
-            left: 37%;
-            width: 33%;
-            bottom: 25px;
-          }
-
-          .copyright-box { 
-            bottom: 5px;
-            left: 15%; 
-            }
         
+      .logo-foot {
+          display: none;
+      }  
+
+     
+      .footer-nav {
+          display: block;
+          width: 55%;
+          left: 28%;
+          height: 50px;
+          position: relative;
+          text-decoration: none;
+      }
+
+      .footer-links li { 
+          font-size: 60%;
+          padding: 5px 40px 0px 0px;
+      }
+
+
+      .social-icons {
+          display: block;
+          height: 50px;
+          left: 37%;
+          width: 33%;
+          bottom: 25px;
+        }
+
+        .copyright-box { 
+          bottom: 5px;
+          left: 15%; 
+          }
+      
 }
 
- /*--PHONES TO SMALL TABLETS 0 - 579px--*/
+/*--PHONES TO SMALL TABLETS 0 - 579px--*/
 
- @media only screen and (max-width: 579px) {
+@media only screen and (max-width: 579px) {
 
-    .hero-text-box h1 {
-        left: 15%;
-        font-size:110%;
+  .hero-text-box h1 {
+      left: 15%;
+      font-size:110%;
+  }
+  .hero-text-box p {
+      margin-top: 110px;
+
+  
+  }
+ 
+  .hero-box {
+      width: 100%;
+      left: 0%;
+  }
+
+  .container {
+      left: 7%;
+      right: 7%;
+      width: 86%;
+
     }
-    .hero-text-box p {
-        margin-top: 110px;
 
-    
-    }
-   
-    .hero-box {
-        width: 100%;
-        left: 0%;
+    .features-icons {
+      width: 90%;
+      left: 8%;
     }
 
-    .container {
-        left: 7%;
-        right: 7%;
-        width: 86%;
+    .footer {
+      width: 100%;
+      left: 0%;
+    }
 
-      }
+}
 
-      .features-icons {
-        width: 90%;
-        left: 8%;
-      }
-
-      .footer {
-        width: 100%;
-        left: 0%;
-      }
-
- }
-
-    /*--PHONES TO SMALL TABLETS 0 - 500px--*/
+  /*--PHONES TO SMALL TABLETS 0 - 500px--*/
 
 @media only screen and (max-width: 500px) {
 
-    .logo {
-        left: 10%;
-        height: 45px;
-        }
-
-
-    .header { width: 100%;}
-        .hero-box { 
-            width: 100%;
-            left: 0%;
-            right: 0%;
-        }
-
-    .hero-box h1 { 
-        font-size: 110%;
-        left: 10%;
-    }
-
-    .hero-text-box p { margin-top: 100px;}
-    .container {
-            top: 400px;
-            width: 90%;
-            left: 5%;
-            right: 5%;
-        }
-    .position-box {
-            height: 730px;
-            padding: 40px 80px 40px 80px;
-            margin-bottom: 15px;
-        }
-      
-    .best-ribbon {left: 23%;}
-
-    .os-icon { height: 35px; }
-
-    .star-rating { right: 10%;}
-    
-
-    .features-icons {
-        position: relative;
-        display: block;
-        background-color: none;
-        width: 100%;
-        left: 7%;
-        top: 120px;
-        height: 220px;
-        padding-top: 10px;
-      
-      }
-      
-      .feature-icon {
-       width: 35px;
-       height: auto;
-       padding-bottom: 22px;
-       vertical-align: middle;
-       display: inline-block ;
-      }
-      
-      li p {
-        position: relative;
-        color: #7a7878;
-        font-size: 80%;
-        display: inline-block;
-        margin-left: 15px;
-        
+  .logo {
+      left: 10%;
+      height: 45px;
       }
 
-          
 
-    .footer { 
-            width: 100%;
-            left: 0%;
-            right: 0%;
-        }
-
-    .social-icons { bottom: 25px; } 
-    .copyright-box { left:8%; }
-
-    .footer-nav {
-        display: block;
-        width: 55%;
-        left: 25%;
-        height: 50px;
-        position: relative;
-        text-decoration: none;
-    }
-    .visit-btn a:link,
-    .visit-btn a:visited {
-        width: 80%;
-        right: 10%;
-        }
-
-    .review-btn a:link,
-    .review-btn a:visited {
-          width: 80%;
-          right: 10%;
-        }    
-        
-    
-    .os-logo-container {
-        left: 5%;
+  .header { width: 100%;}
+      .hero-box { 
+          width: 100%;
+          left: 0%;
+          right: 0%;
       }
 
-}
-
-  /*--PHONES TO SMALL TABLETS 0 - 414px--*/
-
-@media only screen and (max-width: 414px) {
-
-    .logo {
-        left: 5%;
-        height: 50px;
-        }
-
-        .mobile-nav-icon {
-            margin-right: 5%;
-          }
-
-    .mobile-nav-icon i { 
-        font-size: 180%; 
-        margin-right: 0%;
-    }
-
-
-    .hero-text-box h1 {
-        font-size: 90%;
-        left: 10%;
-    }
-
-    .hero-text-box p {
-        font-size: 65%;
-        margin-top: 100px;
-}
-
-    .position-box { 
-        padding: 20px 30px 20px 20px;
-        height: 700px;
-    }
-
-
-    .best-ribbon { left: 21%; }   
-    
-    .best-ribbon img {
-        left: 0%;
-        height: 55px;
-        top: -10px;
-}
-
-    .adv-logo { top: 40px; }
-
-    
-    .adv-logo img {
-        display: center ;
-        width: 85%;
-        height: auto;
-        right: 2%;
-        margin-left: 0%;
+  .hero-box h1 { 
+      font-size: 110%;
+      left: 10%;
   }
 
-  .os-logo-container {
-    display: block;
-    background-color: rgb(255, 255, 255);
-    position: relative;
-    top: 40px;
-    width: auto;
-    height: 40px;
-    left: 10%;
-  }
+  .hero-text-box p { margin-top: 100px;}
+  .container {
+          top: 400px;
+          width: 90%;
+          left: 5%;
+          right: 5%;
+      }
+  .position-box {
+          height: 730px;
+          padding: 40px 80px 40px 80px;
+          margin-bottom: 15px;
+      }
+    
+  .best-ribbon {left: 23%;}
+
+  .os-icon { height: 35px; }
+
+  .star-rating { right: 25%;}
   
-
-  .os-logo-container i { font-size: 48px; }
-
-
-  .star-rating {
-    display: block;
-    background-color: none;
-    float: right;
-    position: relative;
-    top: -140px;
-    width: 200px;
-    height: 50px;
-    right: 23%;
-  }
 
   .features-icons {
-    position: relative;
-    display: block;
-    background-color: none;
-    width: 100%;
-    left: 10%;
-    top: 130px;
-    height: 220px;
-    padding-top: 10px;
-  
+      position: relative;
+      display: block;
+      background-color: none;
+      width: 100%;
+      left: 7%;
+      top: 120px;
+      height: 220px;
+      padding-top: 10px;
+    
+    }
+    
+    .feature-icon {
+     width: 35px;
+     height: auto;
+     padding-bottom: 22px;
+     vertical-align: middle;
+     display: inline-block ;
+    }
+    
+    li p {
+      position: relative;
+      color: #7a7878;
+      font-size: 80%;
+      display: inline-block;
+      margin-left: 15px;
+      
+    }
+
+        
+
+  .footer { 
+          width: 100%;
+          left: 0%;
+          right: 0%;
+      }
+
+  .social-icons { bottom: 25px; } 
+  .copyright-box { left:8%; }
+
+  .footer-nav {
+      display: block;
+      width: 55%;
+      left: 25%;
+      height: 50px;
+      position: relative;
+      text-decoration: none;
   }
-
-
   .visit-btn a:link,
   .visit-btn a:visited {
       width: 80%;
@@ -1004,221 +895,341 @@
         right: 10%;
       }    
       
-      .footer {
-        top: 7550px;
-      }
-
-      .footer-nav {
-        width: 80%;
-        left: 20%;
-    }
-
-
-    .social-icons {
-        left: 35%;
-        width: 60%;
-      }
-
-      .copyright-box { 
-        bottom: 5px;
-        left: 4%; 
-        }
-    
-        .copyright {
-            font-size: 55%;
-
-          }
-
-
-    /*--PHONES 375px--*/
-
-    @media only screen and (max-width: 375px) {
-
-        .logo {
-            left: 5%;
-            top: 25px;
-            }
-
-            .mobile-nav-icon i {
-                font-size: 160%;
-              
-              }
-
-              .mobile-nav-icon {
-                margin-top: 32px;
-                margin-right: 5%;
-              }
-
-              .hero-text-box h1 {
-                font-size: 90%;
-                left: 5%;
-                top: 40px;
-            }
-
-            .hero-text-box p {
-                font-size: 70%;
-                margin-top: 90px;
-        }
-
-            .best-ribbon img {
-                left: 0%;
-                height: 50px;
-                top: -10px;
-        }
-
-        .adv-logo img {
-            display: center ;
-            width: 90%;
-            height: auto;
-            right: 1%;
-            margin-left: 1%;
-      }
-
-      .position-box { padding: 40px 40px 40px 40px;}
-
-      .os-logo-container i {
-        color:rgb(97, 147, 197);
-        padding: 9px;
-        font-size: 50px;
-        z-index: 1000;
-      }
-
-      .bling  {
-        height: 35px;
-        width: auto;
-      }
-        
-      .features-icons {
-        left: 2%;
-      
-      }
-
-      li p {
-        position: relative;
-        color: #7a7878;
-        font-size: 75%;
-        display: inline-block;
-        margin-left: 10px;
-        
-      }
-
-      .footer-nav {
-        width: 80%;
-        left: 20%;
-    }
-
-
-    .social-icons {
-        display: block;
-        height: 50px;
-        left: 35%;
-        width: 40%;
-        bottom: 30px;
-      }
-
-      .copyright-box { 
-        bottom: 5px;
-        left: 2%; 
-        }
-    
-        .copyright {
-            font-size: 60%;
-
-          }
-    
-    }
-
-     /*--PHONES 320px--*/
-
-     @media only screen and (max-width: 320px) {
-
-        .hero-text-box h1 {
-            font-size: 80%;
-            left: 4%;
-        }
-
-        .hero-text-box p {
-            font-size: 65%;
-            margin-top: 90px;
-    }
-
-        .position-box { 
-            padding: 20px 30px 20px 20px;
-            height: 700px;
-        }
-
-
-        .best-ribbon { left: 18%; }    
-        .adv-logo img {
-            display: center ;
-            width: 100%;
-            height: auto;
-            right: 2%;
-            margin-left: 0%;
-      }
-
-      .os-logo-container i { font-size: 48px; }
-
-
-      .star-rating {
-        right: 5%;
-      }
-      
-      .feature-icon {
-        width: 35px;
-        height: auto;
-        padding-bottom: 20px;
-        vertical-align: middle;
-        display: inline-block ;
-       }
-       
-       li p {
-         position: relative;
-         color: #7a7878;
-         font-size: 70%;
-         display: inline-block;
-         margin-left: 15px;
-       
-         
-       }
-
-
-      .visit-btn a:link,
-      .visit-btn a:visited {
-          width: 90%;
-          right: 5%;
-          }
   
-      .review-btn a:link,
-      .review-btn a:visited {
-            width: 90%;
-            right: 5%;
-          }    
-          
-          .footer {
-            top: 7550px;
-          }
-
-          .footer-nav {
-            width: 90%;
-            left: 10%;
-        }
-
-
-        .social-icons {
-            left: 30%;
-            width: 60%;
-          }
-    
-          .copyright-box { 
-            bottom: 5px;
-            left: 2%; 
-            }
-        
-            .copyright {
-                font-size: 60%;
-    
-              }
+  .os-logo-container {
+      left: 5%;
     }
 
 }
+
+/*--PHONES 414px--*/
+
+@media only screen and (max-width: 414px) {
+
+  .logo {
+      left: 5%;
+      height: 50px;
+      }
+
+      .mobile-nav-icon {
+          margin-right: 5%;
+        }
+
+  .mobile-nav-icon i { 
+      font-size: 180%; 
+      margin-right: 0%;
+  }
+
+
+  .hero-text-box h1 {
+      font-size: 90%;
+      left: 10%;
+  }
+
+  .hero-text-box p {
+      font-size: 65%;
+      margin-top: 100px;
+}
+
+  .position-box { 
+      padding: 20px 30px 20px 20px;
+      height: 700px;
+  }
+
+
+  .best-ribbon { left: 21%; }   
+  
+  .best-ribbon img {
+      left: 0%;
+      height: 55px;
+      top: -11px;
+}
+
+  .adv-logo { top: 40px; }
+
+  
+  .adv-logo img {
+      display: center ;
+      width: 85%;
+      height: auto;
+      right: 2%;
+      margin-left: 0%;
+}
+
+.os-logo-container {
+  display: block;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  top: 40px;
+  width: auto;
+  height: 40px;
+  left: 13%;
+}
+
+
+.os-logo-container i { font-size: 50px; }
+
+
+.star-rating {
+  display: block;
+  background-color: none;
+  float: right;
+  position: relative;
+  top: -140px;
+  width: 200px;
+  height: 50px;
+  right: 25%;
+}
+
+.bling  {
+  height: 40px;
+  width: auto;
+}
+
+.features-icons {
+  position: relative;
+  display: block;
+  background-color: none;
+  width: 100%;
+  left: 10%;
+  top: 130px;
+  height: 220px;
+  padding-top: 10px;
+
+}
+
+
+.visit-btn a:link,
+.visit-btn a:visited {
+    width: 80%;
+    right: 10%;
+    }
+
+.review-btn a:link,
+.review-btn a:visited {
+      width: 80%;
+      right: 10%;
+    }    
+    
+    .footer {
+      top: 7550px;
+    }
+
+    .footer-nav {
+      width: 80%;
+      left: 20%;
+  }
+
+
+  .social-icons {
+      left: 35%;
+      width: 60%;
+    }
+
+    .copyright-box { 
+      bottom: 5px;
+      left: 4%; 
+      }
+  
+      .copyright {
+          font-size: 55%;
+
+        }
+}
+
+  /*--PHONES 375px--*/
+
+  @media only screen and (max-width: 375px) {
+
+      .logo {
+          left: 5%;
+          top: 25px;
+          }
+
+          .mobile-nav-icon i {
+              font-size: 160%;
+            
+            }
+
+            .mobile-nav-icon {
+              margin-top: 32px;
+              margin-right: 5%;
+            }
+
+            .hero-text-box h1 {
+              font-size: 90%;
+              left: 5%;
+              top: 40px;
+          }
+
+          .hero-text-box p {
+              font-size: 70%;
+              margin-top: 90px;
+      }
+
+          .best-ribbon img {
+              left: 0%;
+              height: 50px;
+              top: -10px;
+      }
+
+      .adv-logo img {
+          display: center ;
+          width: 90%;
+          height: auto;
+          right: 1%;
+          margin-left: 1%;
+    }
+
+    .position-box { padding: 40px 40px 40px 40px;}
+
+    .os-logo-container i {
+      color:rgb(97, 147, 197);
+      padding: 9px;
+      font-size: 50px;
+      z-index: 1000;
+    }
+
+    .bling  {
+      height: 35px;
+      width: auto;
+    }
+      
+    .features-icons {
+      left: 2%;
+    
+    }
+
+    li p {
+      position: relative;
+      color: #7a7878;
+      font-size: 75%;
+      display: inline-block;
+      margin-left: 10px;
+      
+    }
+
+    .footer-nav {
+      width: 80%;
+      left: 20%;
+  }
+
+
+  .social-icons {
+      display: block;
+      height: 50px;
+      left: 35%;
+      width: 40%;
+      bottom: 30px;
+    }
+
+    .copyright-box { 
+      bottom: 5px;
+      left: 2%; 
+      }
+  
+      .copyright {
+          font-size: 60%;
+
+        }
+  
+  }
+
+  /*--PHONES 320px--*/
+
+  @media only screen and (max-width: 320px) {
+
+      .hero-text-box h1 {
+          font-size: 80%;
+          left: 4%;
+      }
+
+      .hero-text-box p {
+          font-size: 65%;
+          margin-top: 90px;
+  }
+
+      .position-box { 
+          padding: 20px 30px 20px 20px;
+          height: 700px;
+      }
+
+
+      .best-ribbon { left: 18%; }    
+      .adv-logo img {
+          display: center ;
+          width: 100%;
+          height: auto;
+          right: 2%;
+          margin-left: 0%;
+    }
+
+    .os-logo-container { left: 1%; }
+
+    .os-logo-container i { font-size: 48px; }
+
+
+    .star-rating {
+      right: 10%;
+    }
+    
+    .feature-icon {
+      width: 35px;
+      height: auto;
+      padding-bottom: 20px;
+      vertical-align: middle;
+      display: inline-block ;
+     }
+     
+     li p {
+       position: relative;
+       color: #7a7878;
+       font-size: 70%;
+       display: inline-block;
+       margin-left: 15px;
+     
+       
+     }
+
+
+    .visit-btn a:link,
+    .visit-btn a:visited {
+        width: 90%;
+        right: 5%;
+        }
+
+    .review-btn a:link,
+    .review-btn a:visited {
+          width: 90%;
+          right: 5%;
+        }    
+        
+        .footer {
+          top: 7550px;
+        }
+
+        .footer-nav {
+          width: 90%;
+          left: 10%;
+      }
+
+
+      .social-icons {
+          left: 30%;
+          width: 60%;
+        }
+  
+        .copyright-box { 
+          bottom: 5px;
+          left: 2%; 
+          }
+      
+          .copyright {
+              font-size: 50%;
+  
+            }
+
+            .social-icons i {font-size: 160%;}
+            
+  }
+
